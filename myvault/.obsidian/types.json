@@ -1,0 +1,11 @@
+{
+  "types": {
+    "aliases": "aliases",
+    "cssclasses": "multitext",
+    "tags": "tags",
+    "jotbird_link": "text",
+    "jotbird_expires": "text",
+    "jotbird_theme": "text",
+    "jotbird_hide_branding": "checkbox"
+  }
+}

@@ -1,0 +1,317 @@
+{
+  "main": {
+    "id": "8a58ee71656699df",
+    "type": "split",
+    "children": [
+      {
+        "id": "15d8613c29561ece",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "182587a8d2f3ef5e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "what can ai safety learn from the cold war period.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "what can ai safety learn from the cold war period"
+            }
+          }
+        ]
+      },
+      {
+        "id": "2cf8eb6c83c4c008",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a16482d705676b38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "AI safety.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "AI safety"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c9ee338174df578b",
+    "type": "split",
+    "children": [
+      {
+        "id": "6180d6587f16377e",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "58544cb69b1e6e70",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "b60bc06073acff4f",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "  **Example:**   - $\\beta = 0.01$: weak regularization, the policy can drift far from the reference.   - $\\beta = 0.1$: moderate regularization.   - $\\beta = 1.0$: strong regularization, the policy stays very close to the reference.",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "b22ab4ff99085e6f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 280.5
+  },
+  "right": {
+    "id": "a804de2e8b84946b",
+    "type": "split",
+    "children": [
+      {
+        "id": "3e12e807bcce6791",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "55211c6183cf4a42",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "home/mukullight/interpretability/Rough notes for interpretability.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Rough notes for interpretability"
+            }
+          },
+          {
+            "id": "9c429ef17a367eae",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "home/mukullight/interpretability/Rough notes for interpretability.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Rough notes for interpretability"
+            }
+          },
+          {
+            "id": "a7bc5d164bc6cc77",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "386769f78749e867",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "b4cf8d44be4c307a",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "home/mukullight/interpretability/output/Monosematicity.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Monosematicity"
+            }
+          },
+          {
+            "id": "e69341b23025afbb",
+            "type": "leaf",
+            "state": {
+              "type": "p2p-server-status",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "p2p-server-status"
+            }
+          },
+          {
+            "id": "07d69f8a41527fb9",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "git-view"
+            }
+          },
+          {
+            "id": "80caff551f93304c",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "lucide-ghost",
+              "title": "calendar"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 590.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-livesync:P2P Status": false,
+      "obsidian-livesync:Replicate": false,
+      "obsidian-livesync:Show Log": false,
+      "obsidian-excalidraw-plugin:New drawing": false,
+      "obsidian-git:Open Git source control": false,
+      "obsidian-livesync:Show Customization sync": false,
+      "jotbird:Publish note": false
+    }
+  },
+  "active": "a16482d705676b38",
+  "lastOpenFiles": [
+    "what can ai safety learn from the cold war period.md",
+    "AI safety.md",
+    "How can nuclear safety inform ai safety?.md",
+    "Less wrong analysis.md",
+    "superposition_geometry.html",
+    "A slight detour.md",
+    "Endogenous_Steering_Resistance_Reference.md",
+    "interpretability/An Overview of Early Vision in InceptionV1.html",
+    "Circuit tracing.md",
+    "explain claude.md",
+    "notes for should you invest in interpretaability.md",
+    "Reinforcement learning from human feedback for AI safety.md",
+    "Replicating results formodular pretraining enables access control.md",
+    "Should you invest in interpretability in short term ?.md",
+    "sky line.md",
+    "Tell me Do you feel?.md",
+    "Tell me if you are lying ?.md",
+    "updates along the major works.md",
+    "Good design principles and patterns.md",
+    "A flawed human.md",
+    "prompt from deep seek.md",
+    "what is good writing to me ?.md",
+    "Importance of emotional stability.md",
+    "notes.md",
+    "Preparing for the Intelligence explosion.md",
+    "Excalidraw/Drawing 2026-09-05 20.07.06.excalidraw.md",
+    "Untitled 8.md",
+    "Less wrong overview.md",
+    "Pasted image 20260902155630.png",
+    "Pasted image 20260723090450.png",
+    "Pasted image 20260722143150.png",
+    "home/mukullight/interpretability/Excalidraw/Pasted image 20260722181138 1.png",
+    "home/mukullight/interpretability/Excalidraw/Pasted image 20260722181138.png",
+    "home/mukullight/interpretability/Excalidraw/Pasted image 20260722180900.png",
+    "home/mukullight/interpretability/Excalidraw/Pasted image 20260722180419.png",
+    "home/mukullight/interpretability/Excalidraw/Pasted image 20260722164401.png",
+    "home/mukullight/interpretability/Excalidraw/Pasted image 20260722151016.png",
+    "home/mukullight/interpretability/Excalidraw/Pasted image 20260722143150.png",
+    "output/Circuit Tracing_ Revealing Computational Graphs in Language Models.html",
+    "Untitled.html",
+    "interpretability/language/Circuit Tracing_ Revealing Computational Graphs in Language Models.html",
+    "output",
+    "interpretability/language/Building and evaluating alignment auditing agents.html",
+    "interpretability/language/A Toy Model of Mechanistic (Un)Faithfulness.html",
+    "interpretability/language/A Toy Model of Interference Weights.html",
+    "interpretability/language/A Mathematical Framework for Transformer Circuits.html",
+    "home/mukullight/interpretability/flowchart.canvas",
+    "Untitled.canvas"
+  ]
+}

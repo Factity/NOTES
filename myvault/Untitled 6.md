@@ -1,0 +1,1 @@
+I really like the research endeavors far AI has pursued, I found the work to be of really high caliber and shows authenticity and integrity. I also really like the diversity in the team and the partnerships they have with major organizations around the world. 

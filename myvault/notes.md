@@ -1,0 +1,4 @@
+I tried asking Anthropic's latest model arguably the best of the chat bots out there especially in terms of good writing. At least that's what I found. to write me a simple story about ai safety. Recently I have reread one my favorite story by Issac Asimov. I sort of noticed some  unique characteristics. which are so llmy so strange. It was able to string together sentences which are so syntactically correct but have very little preconceived notions on How to write .
+To test out what makes human writing different. I have asked it to generate a short story on the topic of ai safety. 
+
+Fix the html so that the two of them appear side by side
