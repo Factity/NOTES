@@ -45,6 +45,15 @@
     border-radius:4px;
   }
 
+  /* Constrain large images for GitHub Pages blog rendering */
+  .post-image{
+    width:100%;
+    max-width:680px; /* suitable for the blog column */
+    height:auto;
+    margin:1em auto;
+    display:block;
+  }
+
   .def{
     border:1px solid rgba(238,238,238,.2);
     border-left:4px solid var(--violet);
@@ -155,7 +164,8 @@
 
   <p>And also include the image path</p>
 
-  <img src="chart-half-of-articles-being-published-online-are-now-generated-by-ai-Graphite.png"
+  <img class="post-image"
+       src="chart-half-of-articles-being-published-online-are-now-generated-by-ai-Graphite.png"
        alt="Chart showing AI-written online articles matching human-written articles">
 
    <a href="https://graphite.io/five-percent/research/ai-now-writes-as-many-online-articles-as-humans-do" target="_blank" rel="noopener">Source</a>
